@@ -21,7 +21,7 @@
 
 <BR>
 
-<img src="ArcadeGamesLabels/arcadegameslabels.png" width="400" height="200">
+<img src="ArcadeGamesLabels/KeyboardLabels_ABXY_SelectStart_PSP.png" width="400" height="200">
 
 ---
 
